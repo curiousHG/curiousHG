@@ -4,8 +4,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousHG&theme=dark&show_icons=true&locale=en&layout=compact&count_private=true" alt="harsh6372" /></p>
 </div>
-##
-<p align="center"> 
+
+##<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/curiousHG/count.svg" />
 </p>
