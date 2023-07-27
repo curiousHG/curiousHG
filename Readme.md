@@ -31,4 +31,4 @@
 </div>
 
 ## Competetive Programming and Solving DSA
-[![Harshit's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=harsh6372&theme=Dark)]
+![harsh6372's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=harsh6372&theme=Raspberry)(https://github.com/JeremyTsaii/leetcode-stats)
