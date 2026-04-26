@@ -41,7 +41,7 @@
 </table>
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=curiousHG&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" />
+<img src="https://gh-trophy.cdnsoft.net/?username=curiousHG&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=curiousHG&style=flat-square&color=bb2acf" /></p>
