@@ -60,7 +60,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=curiousHG&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiousHG&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=curiousHG&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousHG&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&count_private=true" alt="Top Languages" />
 </div>
@@ -70,7 +70,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=curiousHG&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=curiousHG&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -82,12 +82,12 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harsh6372/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harsh6372)
 
-![Harshit's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=harsh6372&theme=Dark)
+<img src="https://leetcard.jacoblin.cool/harsh6372?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/curiousHG/count.svg" alt="Visitor Count" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=curiousHG&style=for-the-badge&color=bb2acf" alt="Profile Views" />
+</div>
