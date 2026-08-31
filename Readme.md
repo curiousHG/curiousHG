@@ -31,17 +31,17 @@
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=curiousHG&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousHG&theme=radical" /></td>
 <td><img src="https://streak-stats.demolab.com/?user=curiousHG&theme=radical&hide_border=true&background=0D1117" /></td>
 </tr>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousHG&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&count_private=true" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curiousHG&theme=radical" /></td>
 <td><img src="https://leetcard.jacoblin.cool/harsh6372?theme=dark&font=Fira%20Code" /></td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://gh-trophy.cdnsoft.net/?username=curiousHG&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" />
+<img src="https://github-trophies.vercel.app/?username=curiousHG&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=curiousHG&style=flat-square&color=bb2acf" /></p>
